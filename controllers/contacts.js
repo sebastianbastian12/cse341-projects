@@ -61,6 +61,13 @@ const updateContact = async (req, res) => {
     .db()
     .collection('Contacts')
     .replaceOne({ _id: contactId }, contact);
+  if (result.modifiedCount > 0) {
+    res.status(200).json({ message: 'Contact updated successfully' });
+  } else {
+    res
+      .status(500)
+      .json(response.error || 'Some error ocurred while updating the contact');
+  }
 };
 
 const deleteContact = async (req, res) => {
