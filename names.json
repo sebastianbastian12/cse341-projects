@@ -1,0 +1,44 @@
+{
+    "firstName": "Jake",
+    "lastName": "Louis",
+    "email": "jlouis@outlook.com",
+    "favoriteColor": "red",
+    "birthday": "05-12-1994"
+}
+
+{
+    "firstName": "Anna",
+    "lastName": "Smith",
+    "email": "asmith@yahoo.com",
+    "favoriteColor": "green",
+    "birthday": "09-22-1992"
+}
+
+
+{
+    "firstName": "Lena",
+    "lastName": "Johnson",
+    "email": "jjohnson@outlook.com",
+    "favoriteColor": "purple",
+    "birthday": "12-04-1990"
+}
+
+
+{
+    "firstName": "Carlos",
+    "lastName": "Gomez",
+    "email": "cgomez@yahoo.com",
+    "favoriteColor": "blue",
+    "birthday": "03-15-1987"
+}
+
+
+{
+    "firstName": "Mark",
+    "lastName": "Davis",
+    "email": "mdavis@gmail.com",
+    "favoriteColor": "white",
+    "birthday": "07-29-1985"
+}
+
+
